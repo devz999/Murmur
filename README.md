@@ -1,9 +1,12 @@
 # Murmur: Customizable AI-Powered Language Learning Widget
 
 ## Overview
-**Murmur** is a lightweight, interactive language learning widget powered by **ChatGPT via the OpenAI API**. It delivers words, phrases, and quotes tailored to your **specific requirements and scenarios**, enabling you to learn passively while working, browsing, or studying.  
+## Overview
+Murmur is a compact desktop widget that quietly integrates into your desktop experience. Learn passively with a list of popular foreign language words and sample sentences—alongside English translations—at scheduled intervals. It stays pinned on top, non-intrusive, and out of your way. Perfect for anyone who wants to soak in new vocabulary passively while working, browsing, or just living life.
 
-The widget is designed for **customizable, effortless, and engaging language acquisition**, helping you expand vocabulary without interrupting your workflow.
+Integration of the **OpenAI API** allows you to personalize the tone and context of the sentences you learn. Whether you want to prepare for dating conversations, business meetings, or travel, just select your preference and the widget will serve up relevant content tailored to your goals. It's like language immersion—without having to fly to Paris.
+
+We're just getting started. Upcoming features include text-to-speech, more languages, a refined UI, and even smarter sentence generation. This version is not fully optimized and may have bugs.
 
 
 > **Note:** This is an early version. The code is not fully optimized or cleaned, and may contain bugs. Future developments will improve efficiency, stability, and add more features.
