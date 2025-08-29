@@ -5,6 +5,9 @@
 
 The widget is designed for **customizable, effortless, and engaging language acquisition**, helping you expand vocabulary without interrupting your workflow.
 
+
+> **Note:** This is an early version. The code is not fully optimized or cleaned, and may contain bugs. Future developments will improve efficiency, stability, and add more features.
+
 ---
 
 ## Features
