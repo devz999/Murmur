@@ -2,7 +2,7 @@
 
 ## Overview
 ## Overview
-Murmur is a compact desktop widget that quietly integrates into your desktop experience. Learn passively with a list of popular foreign language words and sample sentences—alongside English translations—at scheduled intervals. It stays pinned on top, non-intrusive, and out of your way. Perfect for anyone who wants to soak in new vocabulary passively while working, browsing, or just living life.
+Murmur (https://murmur-d99.onrender.com/) is a compact desktop widget that quietly integrates into your desktop experience. Learn passively with a list of popular foreign language words and sample sentences—alongside English translations—at scheduled intervals. It stays pinned on top, non-intrusive, and out of your way. Perfect for anyone who wants to soak in new vocabulary passively while working, browsing, or just living life.
 
 Integration of the **OpenAI API** allows you to personalize the tone and context of the sentences you learn. Whether you want to prepare for dating conversations, business meetings, or travel, just select your preference and the widget will serve up relevant content tailored to your goals. It's like language immersion—without having to fly to Paris.
 
