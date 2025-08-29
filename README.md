@@ -27,6 +27,8 @@ We're just getting started. Upcoming features include text-to-speech, more langu
 1. **Input Preferences**: You select the type of words, frequency, and scenario (e.g., “business German words” or “travel phrases”).  
 2. **AI Generation via OpenAI API**: Murmur sends requests to the OpenAI API (ChatGPT) to generate a curated list of words, translations, or quotes.  
 3. **Scheduled Display**: Words are displayed at your chosen intervals for passive learning.  
-4. **Interactive Tracking** (future roadmap): Potential to track learned words and adapt difficulty dynamically.  
+4. **Interactive Tracking** (future roadmap): Potential to track learned words and adapt difficulty dynamically.
+
+> **Note:** Please set your own OPENAI API KEY in line 17 of CONFIG.py
 
 ---
